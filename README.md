@@ -245,13 +245,13 @@ annotation-comparison-app/
 
 Upload annotation files, select the expert/reference annotator, choose comparison annotators, filter events, and adjust matching settings.
 
-![App overview](assets/app-overview.png)
+![App overview](assets/appoverview.png)
 
 ### Expert comparison metrics
 
 View overall agreement and event-level metrics, including temporal overlap, F1 scores, timing errors, and missed or extra segments.
 
-![Expert comparison metrics](assets/expert-comparison.png)
+![Expert comparison metrics](assets/expertcomparison.png)
 
 ### Interactive timeline comparison
 
