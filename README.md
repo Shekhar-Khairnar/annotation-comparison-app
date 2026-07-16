@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 # Temporal Annotation Comparator
 
