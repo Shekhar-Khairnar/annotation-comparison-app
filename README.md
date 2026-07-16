@@ -239,6 +239,26 @@ annotation-comparison-app/
 └── README.md
 ```
 
+## App screenshots
+
+### App overview
+
+Upload annotation files, select the expert/reference annotator, choose comparison annotators, filter events, and adjust matching settings.
+
+![App overview](assets/app-overview.png)
+
+### Expert comparison metrics
+
+View overall agreement and event-level metrics, including temporal overlap, F1 scores, timing errors, and missed or extra segments.
+
+![Expert comparison metrics](assets/expert-comparison.png)
+
+### Interactive timeline comparison
+
+Compare the expert and annotator timelines, zoom or pan through time, change event colors, and download the plot.
+
+![Interactive timeline comparison](assets/timeline-comparison.png)
+
 ## Technical assumptions
 
 - Intervals are interpreted as continuous half-open intervals: `[start, end)`.
